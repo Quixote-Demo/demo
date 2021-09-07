@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T07:10:09.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="GZfreZ2sC7Voa4EY-_33" version="15.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-07T07:23:20.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="Q_NHUU3ztafmPF2PJ5WQ" version="15.0.6" type="github" pages="2">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="1">
       <root>
@@ -85,14 +85,14 @@
         <mxCell id="m_I4Q5KDIQXLbg_5Njxx-12" value="Concentrator&lt;br&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;strokeColor=none;strokeWidth=2;fillColor=#EDF5FF;fontSize=12;fontColor=#0A3DA3;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="m_I4Q5KDIQXLbg_5Njxx-1">
           <mxGeometry x="440" y="450" width="80" height="53" as="geometry" />
         </mxCell>
-        <object placeholders="1" variableName="New Value" placeholder="containername" containername="Hello World" label="Hello World" id="m_I4Q5KDIQXLbg_5Njxx-13">
-          <mxCell style="swimlane;gradientColor=#FFFFFF;gradientDirection=east;verticalAlign=top;" vertex="1" parent="m_I4Q5KDIQXLbg_5Njxx-1">
-            <mxGeometry x="140" y="440" width="200" height="150" as="geometry" />
+        <object placeholders="1" variableName="New Value" placeholder="containername" containername="Hello World" code="1" displayname="%%" id="m_I4Q5KDIQXLbg_5Njxx-13">
+          <mxCell style="swimlane;gradientColor=#FFFFFF;gradientDirection=east;verticalAlign=top;metaEdit=1;noLabel=0;container=1;editable=0;" vertex="1" parent="m_I4Q5KDIQXLbg_5Njxx-1">
+            <mxGeometry x="120" y="450" width="200" height="150" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" placeholder="variableName" id="m_I4Q5KDIQXLbg_5Njxx-16">
-          <mxCell style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="m_I4Q5KDIQXLbg_5Njxx-13">
-            <mxGeometry x="19.80000000000001" y="43" width="70" height="20" as="geometry" />
+          <mxCell style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;glass=1;metaEdit=1;" vertex="1" parent="m_I4Q5KDIQXLbg_5Njxx-13">
+            <mxGeometry x="65.00000000000001" y="50" width="70" height="20" as="geometry" />
           </mxCell>
         </object>
       </root>

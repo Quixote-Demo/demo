@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T04:00:51.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="tkrKaUX9uTkt7UmVfoiv" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T04:01:38.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="eRKgE_4cTILao6An3Wvc" version="15.0.6" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object label="«价值流»&lt;br&gt;&lt;b&gt;旅客&lt;/b&gt;" 业务ID="1" 名称="旅客" id="Yn5zjWkYIxlVYVCwpNa8-4">
-          <mxCell style="html=1;dropTarget=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=east;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxCell style="html=1;dropTarget=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=east;gradientColor=#FFFFFF;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="1">
             <mxGeometry x="290" y="220" width="140" height="60" as="geometry" />
           </mxCell>
         </object>

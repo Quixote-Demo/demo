@@ -175,6 +175,9 @@
             <mxRectangle width="120" height="113" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hhz9MVZObWHWSJr--FmY-82" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="C_LWEEt2C82r0LwZV5Vg-37">
+          <mxGeometry x="20" y="36.5" width="80" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="C_LWEEt2C82r0LwZV5Vg-38" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="C_LWEEt2C82r0LwZV5Vg-36" vertex="1">
           <mxGeometry x="160" width="120" height="113" as="geometry">
             <mxRectangle width="120" height="113" as="alternateBounds" />

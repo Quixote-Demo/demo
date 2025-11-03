@@ -451,7 +451,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hhz9MVZObWHWSJr--FmY-75" value="Associative&#xa;Entity" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1020" width="140" height="60" as="geometry" />
+          <mxGeometry x="650" y="950" width="140" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

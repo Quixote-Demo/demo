@@ -251,7 +251,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OJy5C223MswBduZsoWdY-1" value="Class1" style="swimlane;fontStyle=1;align=center;horizontal=1;startSize=30;collapsible=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="255" y="510" width="300" height="190" as="geometry" />
+          <mxGeometry x="630" y="510" width="300" height="190" as="geometry" />
         </mxCell>
         <mxCell id="OJy5C223MswBduZsoWdY-2" value="Heading1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=75;height=30;" vertex="1" parent="OJy5C223MswBduZsoWdY-1">
           <mxGeometry width="140" height="90" relative="1" as="geometry">

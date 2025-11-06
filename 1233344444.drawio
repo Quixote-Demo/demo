@@ -22,16 +22,11 @@
         <mxCell id="wJVh_usH_kfdZe0jCQNZ-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="wJVh_usH_kfdZe0jCQNZ-1" source="wJVh_usH_kfdZe0jCQNZ-2" target="wJVh_usH_kfdZe0jCQNZ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="" id="wJVh_usH_kfdZe0jCQNZ-7">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-            <mxGeometry x="29" y="340" width="770" height="320" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="UVNgxmXmPBgzIzApIWXU" name="第 2 页">
-    <mxGraphModel dx="1404" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

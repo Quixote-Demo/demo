@@ -27,8 +27,55 @@
           <mxGeometry x="410" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PQUFTXyny9lekAlXrxQ4-3" value="" style="swimlane;startSize=0;metaEdit=1;autosize=1;" vertex="1" parent="PQUFTXyny9lekAlXrxQ4-1">
-          <mxGeometry x="170" y="470" width="420" height="280" as="geometry">
-            <mxRectangle x="170" y="470" width="170" height="80" as="alternateBounds" />
+          <mxGeometry x="170" y="470" width="420" height="340" as="geometry">
+            <mxRectangle x="170" y="470" width="210" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQUFTXyny9lekAlXrxQ4-5" value="Vertical Flow Layout" style="swimlane;startSize=20;horizontal=1;childLayout=flowLayout;flowOrientation=north;resizable=0;interRankCellSpacing=50;containerType=tree;fontSize=12;" vertex="1" parent="PQUFTXyny9lekAlXrxQ4-3">
+          <mxGeometry x="90" y="40" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="PQUFTXyny9lekAlXrxQ4-6" value="Start" style="whiteSpace=wrap;html=1;" vertex="1" parent="PQUFTXyny9lekAlXrxQ4-5">
+          <mxGeometry x="85" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQUFTXyny9lekAlXrxQ4-7" value="Task" style="whiteSpace=wrap;html=1;" vertex="1" parent="PQUFTXyny9lekAlXrxQ4-5">
+          <mxGeometry x="20" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQUFTXyny9lekAlXrxQ4-8" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="PQUFTXyny9lekAlXrxQ4-5" source="PQUFTXyny9lekAlXrxQ4-6" target="PQUFTXyny9lekAlXrxQ4-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="112.5" y="92" />
+              <mxPoint x="70" y="118" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQUFTXyny9lekAlXrxQ4-9" value="Task" style="whiteSpace=wrap;html=1;" vertex="1" parent="PQUFTXyny9lekAlXrxQ4-5">
+          <mxGeometry x="150" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQUFTXyny9lekAlXrxQ4-10" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="PQUFTXyny9lekAlXrxQ4-5" source="PQUFTXyny9lekAlXrxQ4-6" target="PQUFTXyny9lekAlXrxQ4-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="157.5" y="92" />
+              <mxPoint x="200" y="118" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQUFTXyny9lekAlXrxQ4-11" value="End" style="whiteSpace=wrap;html=1;" vertex="1" parent="PQUFTXyny9lekAlXrxQ4-5">
+          <mxGeometry x="85" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQUFTXyny9lekAlXrxQ4-12" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="PQUFTXyny9lekAlXrxQ4-5" source="PQUFTXyny9lekAlXrxQ4-7" target="PQUFTXyny9lekAlXrxQ4-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="182" />
+              <mxPoint x="112.5" y="208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQUFTXyny9lekAlXrxQ4-13" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="PQUFTXyny9lekAlXrxQ4-5" source="PQUFTXyny9lekAlXrxQ4-9" target="PQUFTXyny9lekAlXrxQ4-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="182" />
+              <mxPoint x="157.5" y="208" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
